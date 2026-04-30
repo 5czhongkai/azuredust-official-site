@@ -2,6 +2,8 @@
 
 蓝尘数字智能科技有限公司官网静态页面，面向移动端优先展示和微信传播场景。
 
+GitHub 仓库：`azuredust-official-site`
+
 ## 项目结构
 
 ```text
