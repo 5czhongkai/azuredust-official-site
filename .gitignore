@@ -1,0 +1,18 @@
+.DS_Store
+**/.DS_Store
+
+# Python local preview cache
+__pycache__/
+*.py[cod]
+
+# Dependency/build folders if tooling is added later
+node_modules/
+dist/
+build/
+
+# Vercel local project metadata
+.vercel/
+
+# Local environment files
+.env
+.env.*
